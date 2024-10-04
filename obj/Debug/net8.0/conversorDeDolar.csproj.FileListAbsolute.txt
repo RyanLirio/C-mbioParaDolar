@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\bin\Debug\net8.0\conversorDeDolar.exe
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\bin\Debug\net8.0\conversorDeDolar.deps.json
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\bin\Debug\net8.0\conversorDeDolar.runtimeconfig.json
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\bin\Debug\net8.0\conversorDeDolar.dll
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\bin\Debug\net8.0\conversorDeDolar.pdb
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.AssemblyInfo.cs
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.dll
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\refint\conversorDeDolar.dll
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.pdb
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\conversorDeDolar.genruntimeconfig.cache
+C:\Users\RL\desktop\udemy\Exercícios\AreaPerimetroDiagonalDoTriangulo\conversorDeDolar\obj\Debug\net8.0\ref\conversorDeDolar.dll
